@@ -1,0 +1,3 @@
+javac -cp "./src:./lib/jcommon-1.0.17.jar:./lib/jfreechart-1.0.14.jar" -d ./bin ./src/FPAU.java 
+
+java -cp "./bin:./lib/jcommon-1.0.17.jar:./lib/jfreechart-1.0.14.jar" FPAU
